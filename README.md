@@ -1,4 +1,4 @@
-###simple_encryption
+#simple_encryption
 
 While working with a dataset that contained personal financial data, I thought it would be a good idea to create a simple
 data anonymization program that could anonymise the data, instead of using an existing library function such as anonympy.
